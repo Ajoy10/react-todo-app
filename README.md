@@ -1,3 +1,16 @@
+# Description
+
+A todo app created with reactjs.
+
+# Features
+
+- Add todos
+- Delete todos
+- Mark todo as completed
+- Save todos in the local storage
+- Can toggle between a light theme and dark theme
+- Theme choice is also saved in the local storage
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -13,11 +26,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
